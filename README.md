@@ -1,3 +1,3 @@
 # first-repository
-hello world
-I like snowboarding and mountain biking
+hello world!
+I like snowboarding and mountain biking.
